@@ -53,12 +53,6 @@ New Web Play focuses on practical pages for players: codes, maps, value lists, c
 - [Sailor Piece Bloodline Guide](https://newwebplay.com/guides/sailor-piece-bloodline-guide/)
 - [Geometry Arrow 2 Tips](https://newwebplay.com/guides/geometry-arrow-2-tips/)
 
-## Why This Repository Exists
-
-This repository is a lightweight public directory for New Web Play resources. The website source code, private drafts, internal tools, and unpublished data are not stored here.
-
-Use the links above when you want a quick route into a guide hub, active codes page, calculator, tracker, map, or focused player guide.
-
 ## Site
 
 [https://newwebplay.com/](https://newwebplay.com/)
